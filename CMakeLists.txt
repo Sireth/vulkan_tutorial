@@ -19,14 +19,12 @@ set(VK_TUTORIAL_INCLUDE_DIRS
 )
 
 set(VK_TUTORIAL_HEADERS
-        src/HelloTriangleApplication.cpp
         include/HelloTriangleApplication.h
 )
 
 set(VK_TUTORIAL_SOURCES
         src/main.cpp
         src/HelloTriangleApplication.cpp
-        include/HelloTriangleApplication.h
 )
 
 set(PROJECT_SOURCES
