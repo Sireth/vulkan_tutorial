@@ -3,6 +3,8 @@
  *
  * @date 29.09.2024
  * @author mltya.usov04\@gmail.com
+ *
+ * Copyright (c) 2024 Sireth
  */
 
 #ifndef HELLOTRIANGLEAPPLICATION_H
