@@ -42,7 +42,8 @@ RUN apt install -y  \
     vulkan-tools \
     libvulkan-dev \
     vulkan-utility-libraries-dev \
-    spirv-tools
+    spirv-tools \
+    vulkan-validationlayers
 
 RUN apt install -y \
     libglfw3-dev \
