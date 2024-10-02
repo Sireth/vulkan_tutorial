@@ -23,6 +23,9 @@ namespace vt {
 
     private:
         void initWindow();
+
+        void createInstance();
+
         void initVulkan();
 
         void mainLoop();
@@ -31,6 +34,8 @@ namespace vt {
 
     private:
         GLFWwindow *m_window{};
+
+        VkInstance instance;
     };
 } // vt
 
